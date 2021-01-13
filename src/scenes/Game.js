@@ -1,5 +1,5 @@
 /// <reference path="../../typings/phaser.d.ts" />
-// @ts-check
+// @ts-nocheck
 
 import Phaser from 'phaser';
 
